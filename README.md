@@ -1,5 +1,7 @@
 # TÀI LIỆU PayGO — Hệ thống ví điện tử
 
+![PayGO](image/PayGO.png)
+
 ## Tổng quan
 PayGO là hệ thống ví điện tử di động phục vụ người dùng tại Việt Nam, hỗ trợ quản lý và thực hiện giao dịch tài chính cá nhân một cách an toàn và thuận tiện. Hệ thống được xây dựng trong khuôn khổ môn học Công nghệ phần mềm tại Trường Đại học Công nghệ – ĐHQGHN.
 
